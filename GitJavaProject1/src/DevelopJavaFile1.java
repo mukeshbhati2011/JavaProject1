@@ -10,9 +10,11 @@ public class DevelopJavaFile1
 	{
 		System.out.println("Message added by Dev1");
 	}
+
 	
 	public void dev2Method()
 	{
 		System.out.println("Message added by Dev 2 resource");
 	}
+
 }
