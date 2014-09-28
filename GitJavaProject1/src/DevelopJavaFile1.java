@@ -5,4 +5,9 @@ public class DevelopJavaFile1
 	{
 		System.out.println("Develop Java File Line 1");
 	}
+	
+	public void dev1Method()
+	{
+		System.out.println("Message added by Dev1");
+	}
 }
