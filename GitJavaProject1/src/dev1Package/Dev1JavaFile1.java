@@ -11,4 +11,10 @@ public class Dev1JavaFile1
 	{
 		System.out.println("Code added after creating Sprint 2");
 	}
+	
+	public void developMethod()
+	{
+		System.out.println("Method added in develop");
+	}
+
 }
